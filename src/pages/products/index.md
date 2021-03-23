@@ -4,10 +4,10 @@ path: /products
 templateKey: product-page
 title: Caffè
 image: /img/jumbotron.jpg
-description: Quante volte vi è capitato di chiedere un caffè? Sicuramente molte.
+description: Quante volte vi è capitato di chiedere un caffè? Sicuramente molte. 
   Quante volte vi viene servito un caffè anonimo di cui l’unica informazione è
   la marca, perché è stata chiesta o individuata su qualche oggetto
-  pubblicitario? Sicuramente molte!Cinque ristoratori su 10 sanno indicare se
+  pubblicitario? Sicuramente molte! Cinque ristoratori su 10 sanno indicare se
   utilizzano un’Arabica 100%, ma alla domanda se la loro miscela è monoorigine,
   7 su 10 non sono in grado di fornire notizie specifiche sulla provenienza
   geografica.Purtroppo conoscere la specie è condizione necessaria ma non
@@ -35,13 +35,26 @@ intro:
   blurbs:
     - image: /img/caffè1.jpg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        I caffè Arabica sono molto profumati, dolci, rotondi, leggermente acidi e spesso cioccolatosi, con una crema nocciola chiaro tendente
+        al rossiccio e una gradevole punta di amaro. I caffè Robusta sono invece spigolosi, astringenti, poco profumati e più amari, con una
+        crema marrone tendente al grigio. Il chicco di Arabica si presenta molto aperto, con scanalatura centrale mossa e di colore verde più o meno intenso.
+        Rispetto ad un robusta è più piatto, allungato e dal punto di vista chimico contiene una percentuale di caffeina dallo 0,9% all’1,7%.
+        Il chicco di Robusta rispetto all’arabica è più convesso e rotondeggiante e il solco è quasi dritto.
+        Dal punto di vista chimico presenta una maggiore concentrazione di caffeina, dall’1,6% al 2,8%.
+    - image: /img/arabica.jpg
       text: >
+        Relativamente alla provenienza, il Brasile è il primo produttore al mondo di Arabica, con più di un terzo della produzione totale e 
+        subito dopo con il 10% della produzione mondiale la Colombia, con il suo caffè dolce.
+        Tra i cosiddetti ulteriori “Altri Arabica”, troviamo il caffè del Guatemala, dolcissimo, di media 
+        acidità e dall’aroma intenso che va dal cioccolatoso al fiorito, il caffè africano, di produzione limitata 
+        ma di ottima qualità (acido e aromatico il Kenyano eestremamente fiorito, con note di caramello l’Etiopico), il caffè indiano
+        dal corpo pieno insieme a un tocco di amarezza positiva e un aroma speziato e i caffè dolci e leggeri sudamericani.
+        L’Asia è il continente in cui si concentra la produzione di Robusta, con il Vietnam e l’Indonesia ai primi posti.
+        La valutazione delle caratteristiche fisiche del caffè è variabile non solo a seconda della 
+        sua tipologia ma addirittura a seconda dell'organismo che la codifica.
+        Dovendo operare una scelta, ci si attiene ai metodi di classificazione in uso 
+        presso i più importanti mercati del caffè quali Le Havre per i robusta e New York per gli arabici, 
+        che tengono conto oltre alla provenienza e alla specie delle seguenti caratteristiche:
         We offer a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level. No matter if you roast your
         own beans or just bought your first french press, you’ll find a gadget

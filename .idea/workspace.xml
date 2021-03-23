@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="55f00ea6-5ba0-4756-bf77-78913574154b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/products/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/products/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/static/admin/config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,13 +27,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/img" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/img" />
       <recent name="$PROJECT_DIR$/src/img" />
     </key>
   </component>
@@ -47,6 +49,12 @@
       <workItem from="1606835881338" duration="2852000" />
       <workItem from="1606945431591" duration="114000" />
       <workItem from="1607014329528" duration="1826000" />
+      <workItem from="1613859176904" duration="4185000" />
+      <workItem from="1613934022783" duration="1260000" />
+      <workItem from="1614347446269" duration="2436000" />
+      <workItem from="1614367582416" duration="1403000" />
+      <workItem from="1615020855138" duration="5493000" />
+      <workItem from="1615719074157" duration="1539000" />
     </task>
     <servers />
   </component>
